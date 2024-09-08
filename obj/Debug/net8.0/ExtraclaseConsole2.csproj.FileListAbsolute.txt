@@ -1,0 +1,14 @@
+C:\Users\sotol\source\repos\ExtraclaseConsole2\bin\Debug\net8.0\ExtraclaseConsole2.exe
+C:\Users\sotol\source\repos\ExtraclaseConsole2\bin\Debug\net8.0\ExtraclaseConsole2.deps.json
+C:\Users\sotol\source\repos\ExtraclaseConsole2\bin\Debug\net8.0\ExtraclaseConsole2.runtimeconfig.json
+C:\Users\sotol\source\repos\ExtraclaseConsole2\bin\Debug\net8.0\ExtraclaseConsole2.dll
+C:\Users\sotol\source\repos\ExtraclaseConsole2\bin\Debug\net8.0\ExtraclaseConsole2.pdb
+C:\Users\sotol\source\repos\ExtraclaseConsole2\obj\Debug\net8.0\ExtraclaseConsole2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sotol\source\repos\ExtraclaseConsole2\obj\Debug\net8.0\ExtraclaseConsole2.AssemblyInfoInputs.cache
+C:\Users\sotol\source\repos\ExtraclaseConsole2\obj\Debug\net8.0\ExtraclaseConsole2.AssemblyInfo.cs
+C:\Users\sotol\source\repos\ExtraclaseConsole2\obj\Debug\net8.0\ExtraclaseConsole2.csproj.CoreCompileInputs.cache
+C:\Users\sotol\source\repos\ExtraclaseConsole2\obj\Debug\net8.0\ExtraclaseConsole2.dll
+C:\Users\sotol\source\repos\ExtraclaseConsole2\obj\Debug\net8.0\refint\ExtraclaseConsole2.dll
+C:\Users\sotol\source\repos\ExtraclaseConsole2\obj\Debug\net8.0\ExtraclaseConsole2.pdb
+C:\Users\sotol\source\repos\ExtraclaseConsole2\obj\Debug\net8.0\ExtraclaseConsole2.genruntimeconfig.cache
+C:\Users\sotol\source\repos\ExtraclaseConsole2\obj\Debug\net8.0\ref\ExtraclaseConsole2.dll
