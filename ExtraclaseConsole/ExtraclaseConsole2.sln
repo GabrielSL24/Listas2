@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtraclaseConsole2", "ExtraclaseConsole2.csproj", "{E5D4FE90-877F-4BFF-A754-46CEAC7C6276}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSTestExtraclase2", "..\MSTestExtraclase2\MSTestExtraclase2.csproj", "{B5F08F57-EF27-4999-91C4-DD2B6C3D75B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{0B3B4885-F5B0-45E7-A002-821BD0A09F68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5D4FE90-877F-4BFF-A754-46CEAC7C6276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D4FE90-877F-4BFF-A754-46CEAC7C6276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D4FE90-877F-4BFF-A754-46CEAC7C6276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D4FE90-877F-4BFF-A754-46CEAC7C6276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F08F57-EF27-4999-91C4-DD2B6C3D75B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F08F57-EF27-4999-91C4-DD2B6C3D75B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F08F57-EF27-4999-91C4-DD2B6C3D75B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F08F57-EF27-4999-91C4-DD2B6C3D75B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B5F08F57-EF27-4999-91C4-DD2B6C3D75B8} = {0B3B4885-F5B0-45E7-A002-821BD0A09F68}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A74B5F-12E8-41AB-BD04-257AEC0D39F0}
+	EndGlobalSection
+EndGlobal
